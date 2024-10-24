@@ -8,9 +8,6 @@ import os
 from utils import get_openai_api_key
 from IPython.display import Markdown
 
-# export OPENAI_API_KEY="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"
-# source ~/.bashrc
-
 openai_api_key = get_openai_api_key()
 os.environ["OPENAI_MODEL_NAME"] = 'gpt-3.5-turbo'
 

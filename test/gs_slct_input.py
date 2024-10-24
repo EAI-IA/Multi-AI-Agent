@@ -14,7 +14,6 @@ from config import OPENAI_API_KEY
 
 from crewai import Agent, Crew, Task
 
-os.environ['OPENAI_API_KEY'] = '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'
 
 # Agente Clasificador 
 class ClassifierAgent(Agent):
