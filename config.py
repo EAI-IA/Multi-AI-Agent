@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 
-# OPENAI_API_KEY # put your provided openai api key here
-# ELEVENLABS_API_KEY # https://www.elevenlabs.io/ - get free API key here
+# OPENAI # put your provided openai api key here
+# ELEVENLABS # https://www.elevenlabs.io/ - get free API key here
 # VOICE_ID # elevenlabs voice id
-# DEEPGRAM_API_KEY # https://www.deepgram.com/ - get free API key here
+# DEEPGRAM # https://www.deepgram.com/ - get free API key here
 
-# SERPER_API_KEY
+# SERPER
 
 # deepgram account: 
 # Elevenlabs account: 

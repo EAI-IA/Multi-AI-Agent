@@ -14,7 +14,6 @@ from config import OPENAI_API_KEY
 
 from crewai import Agent, Crew, Task
 
-
 # Agente Clasificador 
 class ClassifierAgent(Agent):
     def act(self, inquiry, history):
